@@ -1,0 +1,21 @@
+*{
+    font-family: 'Prompt', sans-serif;
+}
+.carousel-item{
+    height: 500px;
+}
+.carousel-img-1{
+    background-image: url('https://cdn.pixabay.com/photo/2021/10/05/14/31/tree-6682866_960_720.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.carousel-img-2{
+    background-image: url('https://cdn.pixabay.com/photo/2021/10/21/10/02/mountains-6728538_960_720.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.carousel-img-3{
+    background-image: url('https://cdn.pixabay.com/photo/2021/08/27/12/18/forest-6578551_960_720.jpg');
+    background-size: cover;
+    background-position: center;
+}
